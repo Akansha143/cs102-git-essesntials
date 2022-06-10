@@ -4,4 +4,13 @@ Five git commands:
 3] git clone = it copies your entire git repository so you can work on copy impacting original one
 4] git commit = use to take all the changes that have been made locally and push them to the remote repository
 5] git status = that can check the changes made in your local repo.
- 
+
+What i have learn in todays lec:
+1: first create a new repository
+2: use cat .gitconfig or vim .config
+3: we can chcek if our computer already have ssh key by ls -al~/.ssh|grep 'id_rsa'
+4: NOW, Type cat .ssh/id_rsa.pub (copy the link and paste it on this path --> profile > settings > ssh and gpg key > new ssh key > copy paste and add description 
+   THIS IS VERY IMP TO START CLONING.
+5: FOR CLONING=
+   Profile > your repo > click on repo you like to clone > click on "code" > copy the ssh link > go to ubuntu aand paste the link > add "git clone" in front of the link > Enter
+6: Get into the directory, use git status > git remote -v (if this is not types the pull push will not work) > git status > "cat > filename" > git add . > git status > git commit -m > git push  
