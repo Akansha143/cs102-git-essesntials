@@ -1,0 +1,7 @@
+Five git commands:
+1] git push = to share your local commits by pushing them up to remote repository
+2] git config = in this command ,you can specify a username and email address to be used by default whenever new commits are made.
+3] git clone = it copies your entire git repository so you can work on copy impacting original one
+4] git commit = use to take all the changes that have been made locally and push them to the remote repository
+5] git status = that can check the changes made in your local repo.
+ 
